@@ -45,12 +45,12 @@ pip install requests matplotlib
    ```
 or
 
-4. Navigate into the project directory:
+1. Navigate into the exe directory:
    ```bash
    cd Zabbix-Management-Tool
    ```
 
-5. Run the application (EXE):
+2. Run the application (EXE):
    ```bash
    "Zabbix Management Tool.exe"
    ```
