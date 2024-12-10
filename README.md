@@ -41,7 +41,18 @@ pip install requests matplotlib
 
 3. Run the application:
    ```bash
-   python main.py
+   python Zabbix-Management-Tool.py
+   ```
+or
+
+4. Navigate into the project directory:
+   ```bash
+   cd Zabbix-Management-Tool
+   ```
+
+5. Run the application (EXE):
+   ```bash
+   "Zabbix Management Tool.exe"
    ```
 
 ## How to Use
